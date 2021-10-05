@@ -1,0 +1,497 @@
+[
+    {
+        "identification": 4733,
+        "segment_no": 0,
+        "group_no": 17,
+        "name": "Other",
+        "position": 50,
+        "hexadecimal": "634e5a",
+        "num_nodes": 71
+    },
+    {
+        "identification": 4732,
+        "segment_no": 1,
+        "group_no": 13,
+        "name": "IN & OH & MI Microbrew",
+        "position": 17,
+        "hexadecimal": "e0b7ff",
+        "num_nodes": 500
+    },
+    {
+        "identification": 4735,
+        "segment_no": 2,
+        "group_no": 15,
+        "name": "NC Microbrew",
+        "position": 39,
+        "hexadecimal": "e1a35d",
+        "num_nodes": 239
+    },
+    {
+        "identification": 4734,
+        "segment_no": 3,
+        "group_no": 16,
+        "name": "Brewing & Home Brew",
+        "position": 45,
+        "hexadecimal": "6fceee",
+        "num_nodes": 358
+    },
+    {
+        "identification": 4737,
+        "segment_no": 4,
+        "group_no": 10,
+        "name": "UK Microbrew",
+        "position": 11,
+        "hexadecimal": "ff518c",
+        "num_nodes": 443
+    },
+    {
+        "identification": 4736,
+        "segment_no": 5,
+        "group_no": 8,
+        "name": "SMM Health & Tech",
+        "position": 54,
+        "hexadecimal": "4826d0",
+        "num_nodes": 295
+    },
+    {
+        "identification": 4739,
+        "segment_no": 6,
+        "group_no": 8,
+        "name": "SMM Motivation",
+        "position": 52,
+        "hexadecimal": "8e80c3",
+        "num_nodes": 271
+    },
+    {
+        "identification": 4738,
+        "segment_no": 7,
+        "group_no": 16,
+        "name": "Microbrew Enthusiast",
+        "position": 43,
+        "hexadecimal": "00abe5",
+        "num_nodes": 340
+    },
+    {
+        "identification": 4741,
+        "segment_no": 8,
+        "group_no": 13,
+        "name": "Colorado Microbrew",
+        "position": 15,
+        "hexadecimal": "43106a",
+        "num_nodes": 136
+    },
+    {
+        "identification": 4740,
+        "segment_no": 9,
+        "group_no": 17,
+        "name": "Cocktail & Food",
+        "position": 49,
+        "hexadecimal": "ffaedd",
+        "num_nodes": 301
+    },
+    {
+        "identification": 4745,
+        "segment_no": 10,
+        "group_no": 13,
+        "name": "SF Cali Microbrew",
+        "position": 13,
+        "hexadecimal": "4b2667",
+        "num_nodes": 128
+    },
+    {
+        "identification": 4744,
+        "segment_no": 11,
+        "group_no": 16,
+        "name": "Microbrew News & Event",
+        "position": 44,
+        "hexadecimal": "83dfff",
+        "num_nodes": 389
+    },
+    {
+        "identification": 4743,
+        "segment_no": 12,
+        "group_no": 9,
+        "name": "Microbrew NJ & CT & MO",
+        "position": 3,
+        "hexadecimal": "b8cfff",
+        "num_nodes": 564
+    },
+    {
+        "identification": 4742,
+        "segment_no": 13,
+        "group_no": 8,
+        "name": "SMM Mix",
+        "position": 51,
+        "hexadecimal": "1b0088",
+        "num_nodes": 161
+    },
+    {
+        "identification": 4749,
+        "segment_no": 14,
+        "group_no": 13,
+        "name": "PortlandOR Microbrew",
+        "position": 19,
+        "hexadecimal": "4d1d72",
+        "num_nodes": 155
+    },
+    {
+        "identification": 4748,
+        "segment_no": 15,
+        "group_no": 13,
+        "name": "Chicago Microbrew",
+        "position": 18,
+        "hexadecimal": "63308a",
+        "num_nodes": 214
+    },
+    {
+        "identification": 4751,
+        "segment_no": 16,
+        "group_no": 9,
+        "name": "Boston Food & Beer",
+        "position": 1,
+        "hexadecimal": "384868",
+        "num_nodes": 147
+    },
+    {
+        "identification": 4750,
+        "segment_no": 17,
+        "group_no": 12,
+        "name": "Portland ME Local",
+        "position": 22,
+        "hexadecimal": "f5ca46",
+        "num_nodes": 361
+    },
+    {
+        "identification": 4753,
+        "segment_no": 18,
+        "group_no": 12,
+        "name": "Maine Food & Local",
+        "position": 20,
+        "hexadecimal": "ffdc72",
+        "num_nodes": 378
+    },
+    {
+        "identification": 4752,
+        "segment_no": 19,
+        "group_no": 13,
+        "name": "San Diego Microbrew",
+        "position": 14,
+        "hexadecimal": "714990",
+        "num_nodes": 228
+    },
+    {
+        "identification": 4720,
+        "segment_no": 20,
+        "group_no": 8,
+        "name": "SMM",
+        "position": 53,
+        "hexadecimal": "a58eff",
+        "num_nodes": 382
+    },
+    {
+        "identification": 4721,
+        "segment_no": 21,
+        "group_no": 17,
+        "name": "Organic & Sustain Food",
+        "position": 47,
+        "hexadecimal": "8f155d",
+        "num_nodes": 136
+    },
+    {
+        "identification": 4722,
+        "segment_no": 22,
+        "group_no": 14,
+        "name": "Portsmouth NH Local",
+        "position": 27,
+        "hexadecimal": "91d64e",
+        "num_nodes": 266
+    },
+    {
+        "identification": 4755,
+        "segment_no": 23,
+        "group_no": 12,
+        "name": "Portland ME Local *",
+        "position": 23,
+        "hexadecimal": "a48f4e",
+        "num_nodes": 211
+    },
+    {
+        "identification": 4716,
+        "segment_no": 24,
+        "group_no": 9,
+        "name": "Portland ME Beer & Food",
+        "position": 6,
+        "hexadecimal": "213b70",
+        "num_nodes": 169
+    },
+    {
+        "identification": 4717,
+        "segment_no": 25,
+        "group_no": 9,
+        "name": "Philly PA Microbrew",
+        "position": 7,
+        "hexadecimal": "193979",
+        "num_nodes": 195
+    },
+    {
+        "identification": 4718,
+        "segment_no": 26,
+        "group_no": 11,
+        "name": "Boston Lfstyle & Food",
+        "position": 28,
+        "hexadecimal": "c02559",
+        "num_nodes": 236
+    },
+    {
+        "identification": 4719,
+        "segment_no": 27,
+        "group_no": 11,
+        "name": "Boston Lfstyle & Food *",
+        "position": 29,
+        "hexadecimal": "b95b7a",
+        "num_nodes": 225
+    },
+    {
+        "identification": 4711,
+        "segment_no": 28,
+        "group_no": 9,
+        "name": "Massachussets Microbrew",
+        "position": 0,
+        "hexadecimal": "5f7fc0",
+        "num_nodes": 392
+    },
+    {
+        "identification": 4713,
+        "segment_no": 29,
+        "group_no": 10,
+        "name": "Aus & Ireland Microbrew",
+        "position": 9,
+        "hexadecimal": "6e3b4c",
+        "num_nodes": 130
+    },
+    {
+        "identification": 4709,
+        "segment_no": 30,
+        "group_no": 17,
+        "name": "Wine",
+        "position": 46,
+        "hexadecimal": "620039",
+        "num_nodes": 70
+    },
+    {
+        "identification": 4754,
+        "segment_no": 31,
+        "group_no": 14,
+        "name": "Vermont Local",
+        "position": 24,
+        "hexadecimal": "74eb00",
+        "num_nodes": 301
+    },
+    {
+        "identification": 4762,
+        "segment_no": 32,
+        "group_no": 11,
+        "name": "Boston Foodies",
+        "position": 30,
+        "hexadecimal": "c12358",
+        "num_nodes": 239
+    },
+    {
+        "identification": 4760,
+        "segment_no": 33,
+        "group_no": 9,
+        "name": "Pittsburgh Microbrew",
+        "position": 2,
+        "hexadecimal": "00194d",
+        "num_nodes": 74
+    },
+    {
+        "identification": 4715,
+        "segment_no": 34,
+        "group_no": 11,
+        "name": "Boston News & Polit",
+        "position": 35,
+        "hexadecimal": "fc71a0",
+        "num_nodes": 337
+    },
+    {
+        "identification": 4714,
+        "segment_no": 35,
+        "group_no": 11,
+        "name": "Celeb & Boston Focus",
+        "position": 33,
+        "hexadecimal": "c48097",
+        "num_nodes": 244
+    },
+    {
+        "identification": 4757,
+        "segment_no": 36,
+        "group_no": 10,
+        "name": "Intl Microbrew",
+        "position": 12,
+        "hexadecimal": "c46686",
+        "num_nodes": 317
+    },
+    {
+        "identification": 4761,
+        "segment_no": 37,
+        "group_no": 15,
+        "name": "Florida Microbrew",
+        "position": 37,
+        "hexadecimal": "6f4619",
+        "num_nodes": 83
+    },
+    {
+        "identification": 4747,
+        "segment_no": 38,
+        "group_no": 11,
+        "name": "Boston Foodies *",
+        "position": 31,
+        "hexadecimal": "ff0055",
+        "num_nodes": 341
+    },
+    {
+        "identification": 4746,
+        "segment_no": 39,
+        "group_no": 9,
+        "name": "NYC Microbrew",
+        "position": 5,
+        "hexadecimal": "2c4a88",
+        "num_nodes": 236
+    },
+    {
+        "identification": 4730,
+        "segment_no": 40,
+        "group_no": 15,
+        "name": "DC & VA & MD Microbrew",
+        "position": 41,
+        "hexadecimal": "ffba6e",
+        "num_nodes": 279
+    },
+    {
+        "identification": 4731,
+        "segment_no": 41,
+        "group_no": 17,
+        "name": "NY Foodie",
+        "position": 48,
+        "hexadecimal": "e362ae",
+        "num_nodes": 260
+    },
+    {
+        "identification": 4728,
+        "segment_no": 42,
+        "group_no": 11,
+        "name": "Boston Tech & Startup",
+        "position": 34,
+        "hexadecimal": "a31042",
+        "num_nodes": 188
+    },
+    {
+        "identification": 4729,
+        "segment_no": 43,
+        "group_no": 10,
+        "name": "Vancouver Microbrew",
+        "position": 10,
+        "hexadecimal": "6c102f",
+        "num_nodes": 125
+    },
+    {
+        "identification": 4726,
+        "segment_no": 44,
+        "group_no": 9,
+        "name": "VT Food & Beer",
+        "position": 4,
+        "hexadecimal": "3e547f",
+        "num_nodes": 211
+    },
+    {
+        "identification": 4727,
+        "segment_no": 45,
+        "group_no": 10,
+        "name": "Ontario Microbrew",
+        "position": 8,
+        "hexadecimal": "680023",
+        "num_nodes": 116
+    },
+    {
+        "identification": 4724,
+        "segment_no": 46,
+        "group_no": 15,
+        "name": "Atlanta Microbrew",
+        "position": 40,
+        "hexadecimal": "864805",
+        "num_nodes": 114
+    },
+    {
+        "identification": 4725,
+        "segment_no": 47,
+        "group_no": 16,
+        "name": "Local Breweries",
+        "position": 42,
+        "hexadecimal": "5c8a9a",
+        "num_nodes": 197
+    },
+    {
+        "identification": 4712,
+        "segment_no": 48,
+        "group_no": 14,
+        "name": "NH Culture & Politics",
+        "position": 25,
+        "hexadecimal": "9cff3c",
+        "num_nodes": 332
+    },
+    {
+        "identification": 4723,
+        "segment_no": 49,
+        "group_no": 13,
+        "name": "MN Microbrew",
+        "position": 16,
+        "hexadecimal": "370060",
+        "num_nodes": 112
+    },
+    {
+        "identification": 4763,
+        "segment_no": 50,
+        "group_no": 15,
+        "name": "TX Microbrew",
+        "position": 38,
+        "hexadecimal": "904b00",
+        "num_nodes": 128
+    },
+    {
+        "identification": 4756,
+        "segment_no": 51,
+        "group_no": 12,
+        "name": "Bangor ME Local",
+        "position": 21,
+        "hexadecimal": "6d5200",
+        "num_nodes": 108
+    },
+    {
+        "identification": 4759,
+        "segment_no": 52,
+        "group_no": 11,
+        "name": "Boston News & Sports",
+        "position": 32,
+        "hexadecimal": "833d54",
+        "num_nodes": 134
+    },
+    {
+        "identification": 4758,
+        "segment_no": 53,
+        "group_no": 14,
+        "name": "New England Tourism",
+        "position": 26,
+        "hexadecimal": "325c09",
+        "num_nodes": 67
+    },
+    {
+        "identification": 4710,
+        "segment_no": 54,
+        "group_no": 8,
+        "name": "SMM Strategy",
+        "position": 36,
+        "hexadecimal": "301d7e",
+        "num_nodes": 142
+    }
+]

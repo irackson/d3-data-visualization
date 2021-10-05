@@ -1,0 +1,102 @@
+[
+    {
+        "identification": 754,
+        "group_no": 8,
+        "name": "SM Mktg & Celebrity",
+        "description": "",
+        "position": 8,
+        "hexadecimal": "2b0088",
+        "num_segments": 5,
+        "num_nodes": 1251
+    },
+    {
+        "identification": 755,
+        "group_no": 9,
+        "name": "Northeast Craft Beer",
+        "description": "",
+        "position": 0,
+        "hexadecimal": "20194d",
+        "num_segments": 8,
+        "num_nodes": 1988
+    },
+    {
+        "identification": 756,
+        "group_no": 10,
+        "name": "International Beer",
+        "description": "",
+        "position": 3,
+        "hexadecimal": "d46686",
+        "num_segments": 5,
+        "num_nodes": 1131
+    },
+    {
+        "identification": 757,
+        "group_no": 11,
+        "name": "Boston",
+        "description": "",
+        "position": 7,
+        "hexadecimal": "d12358",
+        "num_segments": 8,
+        "num_nodes": 1944
+    },
+    {
+        "identification": 758,
+        "group_no": 12,
+        "name": "Maine",
+        "description": "",
+        "position": 5,
+        "hexadecimal": "7d5200",
+        "num_segments": 4,
+        "num_nodes": 1058
+    },
+    {
+        "identification": 759,
+        "group_no": 13,
+        "name": "West & Midwest Beer",
+        "description": "",
+        "position": 1,
+        "hexadecimal": "814990",
+        "num_segments": 7,
+        "num_nodes": 1473
+    },
+    {
+        "identification": 760,
+        "group_no": 14,
+        "name": "New England",
+        "description": "",
+        "position": 6,
+        "hexadecimal": "425c09",
+        "num_segments": 4,
+        "num_nodes": 966
+    },
+    {
+        "identification": 761,
+        "group_no": 15,
+        "name": "Southern Craft Beer",
+        "description": "",
+        "position": 2,
+        "hexadecimal": "994b00",
+        "num_segments": 5,
+        "num_nodes": 843
+    },
+    {
+        "identification": 762,
+        "group_no": 16,
+        "name": "Craft Beer",
+        "description": "",
+        "position": 4,
+        "hexadecimal": "93dfff",
+        "num_segments": 4,
+        "num_nodes": 1284
+    },
+    {
+        "identification": 763,
+        "group_no": 17,
+        "name": "Other",
+        "description": "",
+        "position": 9,
+        "hexadecimal": "faaedd",
+        "num_segments": 5,
+        "num_nodes": 838
+    }
+]
