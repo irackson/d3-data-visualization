@@ -210,7 +210,7 @@
         "identification": 4755,
         "segment_no": 23,
         "group_no": 12,
-        "name": "Portland ME Local *",
+        "name": "Portland ME Local II",
         "position": 23,
         "hexadecimal": "a48f4e",
         "num_nodes": 211
@@ -246,7 +246,7 @@
         "identification": 4719,
         "segment_no": 27,
         "group_no": 11,
-        "name": "Boston Lfstyle & Food *",
+        "name": "Boston Lfstyle & Food II",
         "position": 29,
         "hexadecimal": "b95b7a",
         "num_nodes": 225
@@ -345,7 +345,7 @@
         "identification": 4747,
         "segment_no": 38,
         "group_no": 11,
-        "name": "Boston Foodies *",
+        "name": "Boston Foodies II",
         "position": 31,
         "hexadecimal": "ff0055",
         "num_nodes": 341

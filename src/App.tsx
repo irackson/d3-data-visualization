@@ -67,7 +67,7 @@ const App: FC = () => {
                 ? max(data.segments, ({ name }) => name.length - 1)! *
                       dimensions.segmentNameFontSize *
                       (1 / 2) +
-                  9
+                  15
                 : 1,
         [data]
     );
@@ -252,7 +252,7 @@ const App: FC = () => {
                             )
                     )
                 )
-                .attr('r', 2)
+                .attr('r', 3)
                 // fill circle with appropriate color, again by compensating for the reordering of the y-axis
                 .attr(
                     'fill',

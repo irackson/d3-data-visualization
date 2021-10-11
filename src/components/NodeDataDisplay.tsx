@@ -9,6 +9,7 @@ export const NodeDataDisplay: FC<{
         style={{
             width: 'min-content',
             height: `${displayFontSize * 4}rem`,
+            marginTop: '0.5rem',
         }}
     >
         {targetNode && (
